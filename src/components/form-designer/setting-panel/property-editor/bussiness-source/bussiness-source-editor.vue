@@ -12,7 +12,7 @@ import i18n from "@/utils/i18n"
 import propertyMixin from "@/components/form-designer/setting-panel/property-editor/propertyMixin";
 import {ref} from "vue";
 import BussinessSourceDrawer
-  from "@/components/form-designer/setting-panel/property-editor/bussiness-source/bussiness-source-drawer";
+  from "@/components/form-designer/setting-panel/property-editor/bussiness-source/bussiness-source-drawer.vue";
 
 export default {
   name: "bussinessSource-editor",
